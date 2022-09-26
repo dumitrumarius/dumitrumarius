@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dumitrumarius
-- 👀 I’m interested in Cloud Infrastructure, Android applications development.
-- 🌱 I’m currently learning Kotlin
+- 👀 I’m interested in Cloud Infrastructure, Android applications development, RPA.
+- 🌱 I’m currently learning Java, RPA.
 <!--- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... --->
 
